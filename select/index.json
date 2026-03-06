@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "シドと白昼夢",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-03-06T09:44:12.522962Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シドと白昼夢",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_シドと白昼夢_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sido to Hakuchūmu [シドと白昼夢]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_Sido_to_Hakuchūmu_[シドと白昼夢]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シドと白昼夢",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_シドと白昼夢_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シドと白昼夢",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/04_シドと白昼夢_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シドと白昼夢",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/05_シドと白昼夢_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シドと白昼夢",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/06_シドと白昼夢_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シドと白昼夢",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/07_シドと白昼夢_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シドと白昼夢",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/08_シドと白昼夢_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シドと白昼夢",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/09_シドと白昼夢_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シドと白昼夢",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_シドと白昼夢_椎名_林檎.txt"
+    }
+  ]
+}
